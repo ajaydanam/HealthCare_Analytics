@@ -1,0 +1,501 @@
+provider_id,provider_name,specialty,county
+P00001,Provider_1,Family Medicine,Saline
+P00002,Provider_2,Pediatrics,Johnson
+P00003,Provider_3,Orthopedics,Leavenworth
+P00004,Provider_4,Emergency Medicine,Leavenworth
+P00005,Provider_5,Pediatrics,Butler
+P00006,Provider_6,Pediatrics,Douglas
+P00007,Provider_7,Psychiatry,Wyandotte
+P00008,Provider_8,Family Medicine,Saline
+P00009,Provider_9,Psychiatry,Johnson
+P00010,Provider_10,Psychiatry,Wyandotte
+P00011,Provider_11,Orthopedics,Douglas
+P00012,Provider_12,Pediatrics,Butler
+P00013,Provider_13,Emergency Medicine,Shawnee
+P00014,Provider_14,Orthopedics,Wyandotte
+P00015,Provider_15,Family Medicine,Johnson
+P00016,Provider_16,Emergency Medicine,Sedgwick
+P00017,Provider_17,Pediatrics,Leavenworth
+P00018,Provider_18,Cardiology,Wyandotte
+P00019,Provider_19,Emergency Medicine,Crawford
+P00020,Provider_20,Orthopedics,Johnson
+P00021,Provider_21,Orthopedics,Sedgwick
+P00022,Provider_22,Psychiatry,Crawford
+P00023,Provider_23,Pediatrics,Riley
+P00024,Provider_24,Cardiology,Crawford
+P00025,Provider_25,Pediatrics,Riley
+P00026,Provider_26,Emergency Medicine,Johnson
+P00027,Provider_27,Cardiology,Butler
+P00028,Provider_28,Pediatrics,Douglas
+P00029,Provider_29,Psychiatry,Johnson
+P00030,Provider_30,Cardiology,Douglas
+P00031,Provider_31,Cardiology,Leavenworth
+P00032,Provider_32,Emergency Medicine,Sedgwick
+P00033,Provider_33,Cardiology,Shawnee
+P00034,Provider_34,Psychiatry,Shawnee
+P00035,Provider_35,Family Medicine,Saline
+P00036,Provider_36,Family Medicine,Shawnee
+P00037,Provider_37,Orthopedics,Johnson
+P00038,Provider_38,Family Medicine,Crawford
+P00039,Provider_39,Emergency Medicine,Johnson
+P00040,Provider_40,Orthopedics,Wyandotte
+P00041,Provider_41,Family Medicine,Riley
+P00042,Provider_42,Family Medicine,Leavenworth
+P00043,Provider_43,Orthopedics,Wyandotte
+P00044,Provider_44,Emergency Medicine,Leavenworth
+P00045,Provider_45,Orthopedics,Shawnee
+P00046,Provider_46,Emergency Medicine,Wyandotte
+P00047,Provider_47,Emergency Medicine,Riley
+P00048,Provider_48,Pediatrics,Butler
+P00049,Provider_49,Psychiatry,Riley
+P00050,Provider_50,Family Medicine,Crawford
+P00051,Provider_51,Pediatrics,Douglas
+P00052,Provider_52,Family Medicine,Leavenworth
+P00053,Provider_53,Pediatrics,Johnson
+P00054,Provider_54,Cardiology,Riley
+P00055,Provider_55,Orthopedics,Sedgwick
+P00056,Provider_56,Pediatrics,Leavenworth
+P00057,Provider_57,Psychiatry,Douglas
+P00058,Provider_58,Family Medicine,Sedgwick
+P00059,Provider_59,Cardiology,Butler
+P00060,Provider_60,Psychiatry,Butler
+P00061,Provider_61,Emergency Medicine,Leavenworth
+P00062,Provider_62,Family Medicine,Sedgwick
+P00063,Provider_63,Pediatrics,Wyandotte
+P00064,Provider_64,Orthopedics,Shawnee
+P00065,Provider_65,Psychiatry,Sedgwick
+P00066,Provider_66,Cardiology,Sedgwick
+P00067,Provider_67,Orthopedics,Crawford
+P00068,Provider_68,Emergency Medicine,Saline
+P00069,Provider_69,Orthopedics,Wyandotte
+P00070,Provider_70,Cardiology,Saline
+P00071,Provider_71,Emergency Medicine,Sedgwick
+P00072,Provider_72,Cardiology,Sedgwick
+P00073,Provider_73,Family Medicine,Johnson
+P00074,Provider_74,Cardiology,Crawford
+P00075,Provider_75,Orthopedics,Saline
+P00076,Provider_76,Family Medicine,Saline
+P00077,Provider_77,Family Medicine,Johnson
+P00078,Provider_78,Psychiatry,Douglas
+P00079,Provider_79,Orthopedics,Leavenworth
+P00080,Provider_80,Orthopedics,Shawnee
+P00081,Provider_81,Emergency Medicine,Johnson
+P00082,Provider_82,Cardiology,Wyandotte
+P00083,Provider_83,Pediatrics,Riley
+P00084,Provider_84,Cardiology,Douglas
+P00085,Provider_85,Orthopedics,Butler
+P00086,Provider_86,Cardiology,Riley
+P00087,Provider_87,Orthopedics,Johnson
+P00088,Provider_88,Family Medicine,Douglas
+P00089,Provider_89,Cardiology,Butler
+P00090,Provider_90,Cardiology,Sedgwick
+P00091,Provider_91,Orthopedics,Crawford
+P00092,Provider_92,Orthopedics,Riley
+P00093,Provider_93,Emergency Medicine,Riley
+P00094,Provider_94,Cardiology,Johnson
+P00095,Provider_95,Psychiatry,Riley
+P00096,Provider_96,Orthopedics,Sedgwick
+P00097,Provider_97,Psychiatry,Saline
+P00098,Provider_98,Family Medicine,Douglas
+P00099,Provider_99,Family Medicine,Riley
+P00100,Provider_100,Psychiatry,Douglas
+P00101,Provider_101,Pediatrics,Butler
+P00102,Provider_102,Family Medicine,Butler
+P00103,Provider_103,Psychiatry,Riley
+P00104,Provider_104,Emergency Medicine,Riley
+P00105,Provider_105,Emergency Medicine,Butler
+P00106,Provider_106,Family Medicine,Wyandotte
+P00107,Provider_107,Psychiatry,Butler
+P00108,Provider_108,Psychiatry,Wyandotte
+P00109,Provider_109,Psychiatry,Shawnee
+P00110,Provider_110,Pediatrics,Sedgwick
+P00111,Provider_111,Family Medicine,Sedgwick
+P00112,Provider_112,Pediatrics,Douglas
+P00113,Provider_113,Psychiatry,Crawford
+P00114,Provider_114,Orthopedics,Johnson
+P00115,Provider_115,Psychiatry,Douglas
+P00116,Provider_116,Orthopedics,Riley
+P00117,Provider_117,Emergency Medicine,Leavenworth
+P00118,Provider_118,Orthopedics,Butler
+P00119,Provider_119,Emergency Medicine,Leavenworth
+P00120,Provider_120,Family Medicine,Shawnee
+P00121,Provider_121,Pediatrics,Shawnee
+P00122,Provider_122,Pediatrics,Saline
+P00123,Provider_123,Emergency Medicine,Shawnee
+P00124,Provider_124,Emergency Medicine,Douglas
+P00125,Provider_125,Psychiatry,Butler
+P00126,Provider_126,Cardiology,Johnson
+P00127,Provider_127,Emergency Medicine,Douglas
+P00128,Provider_128,Orthopedics,Butler
+P00129,Provider_129,Family Medicine,Crawford
+P00130,Provider_130,Pediatrics,Crawford
+P00131,Provider_131,Orthopedics,Wyandotte
+P00132,Provider_132,Pediatrics,Butler
+P00133,Provider_133,Family Medicine,Johnson
+P00134,Provider_134,Orthopedics,Riley
+P00135,Provider_135,Pediatrics,Leavenworth
+P00136,Provider_136,Emergency Medicine,Wyandotte
+P00137,Provider_137,Cardiology,Saline
+P00138,Provider_138,Emergency Medicine,Crawford
+P00139,Provider_139,Pediatrics,Riley
+P00140,Provider_140,Psychiatry,Riley
+P00141,Provider_141,Orthopedics,Leavenworth
+P00142,Provider_142,Cardiology,Saline
+P00143,Provider_143,Orthopedics,Sedgwick
+P00144,Provider_144,Psychiatry,Leavenworth
+P00145,Provider_145,Psychiatry,Butler
+P00146,Provider_146,Psychiatry,Douglas
+P00147,Provider_147,Pediatrics,Douglas
+P00148,Provider_148,Emergency Medicine,Leavenworth
+P00149,Provider_149,Pediatrics,Wyandotte
+P00150,Provider_150,Emergency Medicine,Douglas
+P00151,Provider_151,Cardiology,Douglas
+P00152,Provider_152,Psychiatry,Sedgwick
+P00153,Provider_153,Emergency Medicine,Crawford
+P00154,Provider_154,Family Medicine,Butler
+P00155,Provider_155,Family Medicine,Johnson
+P00156,Provider_156,Emergency Medicine,Butler
+P00157,Provider_157,Cardiology,Riley
+P00158,Provider_158,Orthopedics,Crawford
+P00159,Provider_159,Pediatrics,Riley
+P00160,Provider_160,Psychiatry,Leavenworth
+P00161,Provider_161,Emergency Medicine,Crawford
+P00162,Provider_162,Cardiology,Saline
+P00163,Provider_163,Pediatrics,Johnson
+P00164,Provider_164,Orthopedics,Saline
+P00165,Provider_165,Cardiology,Riley
+P00166,Provider_166,Orthopedics,Riley
+P00167,Provider_167,Family Medicine,Johnson
+P00168,Provider_168,Pediatrics,Riley
+P00169,Provider_169,Pediatrics,Saline
+P00170,Provider_170,Orthopedics,Leavenworth
+P00171,Provider_171,Family Medicine,Crawford
+P00172,Provider_172,Psychiatry,Crawford
+P00173,Provider_173,Emergency Medicine,Leavenworth
+P00174,Provider_174,Family Medicine,Johnson
+P00175,Provider_175,Cardiology,Crawford
+P00176,Provider_176,Orthopedics,Johnson
+P00177,Provider_177,Pediatrics,Wyandotte
+P00178,Provider_178,Cardiology,Wyandotte
+P00179,Provider_179,Pediatrics,Butler
+P00180,Provider_180,Family Medicine,Butler
+P00181,Provider_181,Pediatrics,Crawford
+P00182,Provider_182,Pediatrics,Wyandotte
+P00183,Provider_183,Pediatrics,Wyandotte
+P00184,Provider_184,Pediatrics,Riley
+P00185,Provider_185,Cardiology,Saline
+P00186,Provider_186,Orthopedics,Riley
+P00187,Provider_187,Emergency Medicine,Riley
+P00188,Provider_188,Cardiology,Butler
+P00189,Provider_189,Psychiatry,Douglas
+P00190,Provider_190,Orthopedics,Shawnee
+P00191,Provider_191,Orthopedics,Crawford
+P00192,Provider_192,Psychiatry,Crawford
+P00193,Provider_193,Family Medicine,Sedgwick
+P00194,Provider_194,Psychiatry,Butler
+P00195,Provider_195,Family Medicine,Johnson
+P00196,Provider_196,Emergency Medicine,Crawford
+P00197,Provider_197,Family Medicine,Sedgwick
+P00198,Provider_198,Emergency Medicine,Saline
+P00199,Provider_199,Emergency Medicine,Shawnee
+P00200,Provider_200,Pediatrics,Sedgwick
+P00201,Provider_201,Pediatrics,Shawnee
+P00202,Provider_202,Psychiatry,Leavenworth
+P00203,Provider_203,Emergency Medicine,Leavenworth
+P00204,Provider_204,Family Medicine,Douglas
+P00205,Provider_205,Cardiology,Douglas
+P00206,Provider_206,Pediatrics,Johnson
+P00207,Provider_207,Orthopedics,Sedgwick
+P00208,Provider_208,Orthopedics,Johnson
+P00209,Provider_209,Family Medicine,Shawnee
+P00210,Provider_210,Pediatrics,Leavenworth
+P00211,Provider_211,Cardiology,Sedgwick
+P00212,Provider_212,Emergency Medicine,Leavenworth
+P00213,Provider_213,Pediatrics,Wyandotte
+P00214,Provider_214,Family Medicine,Saline
+P00215,Provider_215,Emergency Medicine,Saline
+P00216,Provider_216,Pediatrics,Wyandotte
+P00217,Provider_217,Psychiatry,Crawford
+P00218,Provider_218,Cardiology,Saline
+P00219,Provider_219,Orthopedics,Butler
+P00220,Provider_220,Family Medicine,Leavenworth
+P00221,Provider_221,Orthopedics,Riley
+P00222,Provider_222,Emergency Medicine,Leavenworth
+P00223,Provider_223,Emergency Medicine,Leavenworth
+P00224,Provider_224,Psychiatry,Johnson
+P00225,Provider_225,Emergency Medicine,Riley
+P00226,Provider_226,Emergency Medicine,Riley
+P00227,Provider_227,Orthopedics,Butler
+P00228,Provider_228,Orthopedics,Douglas
+P00229,Provider_229,Family Medicine,Leavenworth
+P00230,Provider_230,Family Medicine,Douglas
+P00231,Provider_231,Emergency Medicine,Crawford
+P00232,Provider_232,Pediatrics,Shawnee
+P00233,Provider_233,Cardiology,Leavenworth
+P00234,Provider_234,Family Medicine,Riley
+P00235,Provider_235,Emergency Medicine,Riley
+P00236,Provider_236,Pediatrics,Wyandotte
+P00237,Provider_237,Pediatrics,Leavenworth
+P00238,Provider_238,Orthopedics,Butler
+P00239,Provider_239,Pediatrics,Riley
+P00240,Provider_240,Psychiatry,Crawford
+P00241,Provider_241,Orthopedics,Leavenworth
+P00242,Provider_242,Orthopedics,Butler
+P00243,Provider_243,Psychiatry,Leavenworth
+P00244,Provider_244,Orthopedics,Riley
+P00245,Provider_245,Family Medicine,Johnson
+P00246,Provider_246,Orthopedics,Douglas
+P00247,Provider_247,Psychiatry,Crawford
+P00248,Provider_248,Emergency Medicine,Butler
+P00249,Provider_249,Emergency Medicine,Leavenworth
+P00250,Provider_250,Emergency Medicine,Johnson
+P00251,Provider_251,Psychiatry,Crawford
+P00252,Provider_252,Psychiatry,Butler
+P00253,Provider_253,Family Medicine,Johnson
+P00254,Provider_254,Psychiatry,Johnson
+P00255,Provider_255,Pediatrics,Leavenworth
+P00256,Provider_256,Emergency Medicine,Sedgwick
+P00257,Provider_257,Psychiatry,Crawford
+P00258,Provider_258,Cardiology,Leavenworth
+P00259,Provider_259,Orthopedics,Leavenworth
+P00260,Provider_260,Family Medicine,Douglas
+P00261,Provider_261,Emergency Medicine,Crawford
+P00262,Provider_262,Pediatrics,Sedgwick
+P00263,Provider_263,Pediatrics,Wyandotte
+P00264,Provider_264,Emergency Medicine,Shawnee
+P00265,Provider_265,Pediatrics,Johnson
+P00266,Provider_266,Cardiology,Crawford
+P00267,Provider_267,Family Medicine,Saline
+P00268,Provider_268,Orthopedics,Leavenworth
+P00269,Provider_269,Family Medicine,Butler
+P00270,Provider_270,Family Medicine,Johnson
+P00271,Provider_271,Emergency Medicine,Crawford
+P00272,Provider_272,Psychiatry,Douglas
+P00273,Provider_273,Orthopedics,Butler
+P00274,Provider_274,Family Medicine,Butler
+P00275,Provider_275,Cardiology,Douglas
+P00276,Provider_276,Emergency Medicine,Saline
+P00277,Provider_277,Psychiatry,Crawford
+P00278,Provider_278,Psychiatry,Douglas
+P00279,Provider_279,Emergency Medicine,Riley
+P00280,Provider_280,Family Medicine,Butler
+P00281,Provider_281,Pediatrics,Johnson
+P00282,Provider_282,Emergency Medicine,Riley
+P00283,Provider_283,Pediatrics,Johnson
+P00284,Provider_284,Psychiatry,Wyandotte
+P00285,Provider_285,Psychiatry,Leavenworth
+P00286,Provider_286,Cardiology,Crawford
+P00287,Provider_287,Cardiology,Shawnee
+P00288,Provider_288,Psychiatry,Shawnee
+P00289,Provider_289,Cardiology,Leavenworth
+P00290,Provider_290,Cardiology,Wyandotte
+P00291,Provider_291,Cardiology,Douglas
+P00292,Provider_292,Psychiatry,Crawford
+P00293,Provider_293,Family Medicine,Sedgwick
+P00294,Provider_294,Family Medicine,Riley
+P00295,Provider_295,Orthopedics,Butler
+P00296,Provider_296,Cardiology,Leavenworth
+P00297,Provider_297,Family Medicine,Shawnee
+P00298,Provider_298,Orthopedics,Sedgwick
+P00299,Provider_299,Emergency Medicine,Shawnee
+P00300,Provider_300,Cardiology,Wyandotte
+P00301,Provider_301,Family Medicine,Sedgwick
+P00302,Provider_302,Family Medicine,Douglas
+P00303,Provider_303,Pediatrics,Shawnee
+P00304,Provider_304,Family Medicine,Riley
+P00305,Provider_305,Pediatrics,Douglas
+P00306,Provider_306,Orthopedics,Douglas
+P00307,Provider_307,Pediatrics,Butler
+P00308,Provider_308,Emergency Medicine,Wyandotte
+P00309,Provider_309,Cardiology,Sedgwick
+P00310,Provider_310,Family Medicine,Sedgwick
+P00311,Provider_311,Psychiatry,Shawnee
+P00312,Provider_312,Cardiology,Sedgwick
+P00313,Provider_313,Psychiatry,Shawnee
+P00314,Provider_314,Orthopedics,Riley
+P00315,Provider_315,Family Medicine,Leavenworth
+P00316,Provider_316,Cardiology,Riley
+P00317,Provider_317,Cardiology,Shawnee
+P00318,Provider_318,Family Medicine,Crawford
+P00319,Provider_319,Emergency Medicine,Johnson
+P00320,Provider_320,Orthopedics,Shawnee
+P00321,Provider_321,Family Medicine,Wyandotte
+P00322,Provider_322,Pediatrics,Shawnee
+P00323,Provider_323,Cardiology,Johnson
+P00324,Provider_324,Emergency Medicine,Douglas
+P00325,Provider_325,Cardiology,Johnson
+P00326,Provider_326,Psychiatry,Wyandotte
+P00327,Provider_327,Cardiology,Riley
+P00328,Provider_328,Orthopedics,Shawnee
+P00329,Provider_329,Family Medicine,Douglas
+P00330,Provider_330,Cardiology,Crawford
+P00331,Provider_331,Pediatrics,Leavenworth
+P00332,Provider_332,Psychiatry,Butler
+P00333,Provider_333,Psychiatry,Riley
+P00334,Provider_334,Family Medicine,Riley
+P00335,Provider_335,Psychiatry,Butler
+P00336,Provider_336,Family Medicine,Shawnee
+P00337,Provider_337,Orthopedics,Wyandotte
+P00338,Provider_338,Family Medicine,Wyandotte
+P00339,Provider_339,Emergency Medicine,Wyandotte
+P00340,Provider_340,Psychiatry,Saline
+P00341,Provider_341,Psychiatry,Douglas
+P00342,Provider_342,Pediatrics,Crawford
+P00343,Provider_343,Cardiology,Crawford
+P00344,Provider_344,Emergency Medicine,Johnson
+P00345,Provider_345,Cardiology,Saline
+P00346,Provider_346,Family Medicine,Butler
+P00347,Provider_347,Orthopedics,Sedgwick
+P00348,Provider_348,Pediatrics,Shawnee
+P00349,Provider_349,Psychiatry,Saline
+P00350,Provider_350,Orthopedics,Wyandotte
+P00351,Provider_351,Family Medicine,Douglas
+P00352,Provider_352,Family Medicine,Riley
+P00353,Provider_353,Emergency Medicine,Butler
+P00354,Provider_354,Cardiology,Butler
+P00355,Provider_355,Psychiatry,Douglas
+P00356,Provider_356,Psychiatry,Shawnee
+P00357,Provider_357,Orthopedics,Douglas
+P00358,Provider_358,Emergency Medicine,Leavenworth
+P00359,Provider_359,Pediatrics,Johnson
+P00360,Provider_360,Family Medicine,Sedgwick
+P00361,Provider_361,Emergency Medicine,Saline
+P00362,Provider_362,Psychiatry,Butler
+P00363,Provider_363,Pediatrics,Leavenworth
+P00364,Provider_364,Cardiology,Riley
+P00365,Provider_365,Orthopedics,Crawford
+P00366,Provider_366,Family Medicine,Riley
+P00367,Provider_367,Family Medicine,Butler
+P00368,Provider_368,Family Medicine,Wyandotte
+P00369,Provider_369,Cardiology,Wyandotte
+P00370,Provider_370,Psychiatry,Sedgwick
+P00371,Provider_371,Psychiatry,Riley
+P00372,Provider_372,Emergency Medicine,Riley
+P00373,Provider_373,Pediatrics,Riley
+P00374,Provider_374,Emergency Medicine,Shawnee
+P00375,Provider_375,Psychiatry,Leavenworth
+P00376,Provider_376,Family Medicine,Butler
+P00377,Provider_377,Cardiology,Douglas
+P00378,Provider_378,Psychiatry,Johnson
+P00379,Provider_379,Cardiology,Crawford
+P00380,Provider_380,Orthopedics,Butler
+P00381,Provider_381,Family Medicine,Wyandotte
+P00382,Provider_382,Orthopedics,Riley
+P00383,Provider_383,Psychiatry,Saline
+P00384,Provider_384,Emergency Medicine,Butler
+P00385,Provider_385,Psychiatry,Saline
+P00386,Provider_386,Orthopedics,Johnson
+P00387,Provider_387,Cardiology,Crawford
+P00388,Provider_388,Pediatrics,Douglas
+P00389,Provider_389,Pediatrics,Wyandotte
+P00390,Provider_390,Psychiatry,Leavenworth
+P00391,Provider_391,Emergency Medicine,Sedgwick
+P00392,Provider_392,Orthopedics,Douglas
+P00393,Provider_393,Psychiatry,Shawnee
+P00394,Provider_394,Orthopedics,Johnson
+P00395,Provider_395,Orthopedics,Shawnee
+P00396,Provider_396,Family Medicine,Douglas
+P00397,Provider_397,Pediatrics,Sedgwick
+P00398,Provider_398,Pediatrics,Douglas
+P00399,Provider_399,Cardiology,Johnson
+P00400,Provider_400,Family Medicine,Shawnee
+P00401,Provider_401,Pediatrics,Douglas
+P00402,Provider_402,Orthopedics,Riley
+P00403,Provider_403,Emergency Medicine,Sedgwick
+P00404,Provider_404,Emergency Medicine,Crawford
+P00405,Provider_405,Family Medicine,Wyandotte
+P00406,Provider_406,Emergency Medicine,Saline
+P00407,Provider_407,Orthopedics,Shawnee
+P00408,Provider_408,Psychiatry,Wyandotte
+P00409,Provider_409,Orthopedics,Butler
+P00410,Provider_410,Pediatrics,Sedgwick
+P00411,Provider_411,Psychiatry,Sedgwick
+P00412,Provider_412,Emergency Medicine,Riley
+P00413,Provider_413,Cardiology,Riley
+P00414,Provider_414,Cardiology,Johnson
+P00415,Provider_415,Orthopedics,Butler
+P00416,Provider_416,Orthopedics,Douglas
+P00417,Provider_417,Emergency Medicine,Johnson
+P00418,Provider_418,Cardiology,Saline
+P00419,Provider_419,Cardiology,Saline
+P00420,Provider_420,Orthopedics,Shawnee
+P00421,Provider_421,Pediatrics,Saline
+P00422,Provider_422,Cardiology,Crawford
+P00423,Provider_423,Orthopedics,Saline
+P00424,Provider_424,Family Medicine,Douglas
+P00425,Provider_425,Cardiology,Johnson
+P00426,Provider_426,Psychiatry,Douglas
+P00427,Provider_427,Emergency Medicine,Sedgwick
+P00428,Provider_428,Orthopedics,Shawnee
+P00429,Provider_429,Cardiology,Johnson
+P00430,Provider_430,Cardiology,Riley
+P00431,Provider_431,Pediatrics,Wyandotte
+P00432,Provider_432,Orthopedics,Wyandotte
+P00433,Provider_433,Psychiatry,Crawford
+P00434,Provider_434,Cardiology,Leavenworth
+P00435,Provider_435,Family Medicine,Leavenworth
+P00436,Provider_436,Emergency Medicine,Butler
+P00437,Provider_437,Orthopedics,Saline
+P00438,Provider_438,Cardiology,Johnson
+P00439,Provider_439,Pediatrics,Sedgwick
+P00440,Provider_440,Pediatrics,Douglas
+P00441,Provider_441,Emergency Medicine,Crawford
+P00442,Provider_442,Orthopedics,Riley
+P00443,Provider_443,Orthopedics,Shawnee
+P00444,Provider_444,Orthopedics,Johnson
+P00445,Provider_445,Psychiatry,Sedgwick
+P00446,Provider_446,Family Medicine,Sedgwick
+P00447,Provider_447,Pediatrics,Shawnee
+P00448,Provider_448,Orthopedics,Douglas
+P00449,Provider_449,Psychiatry,Riley
+P00450,Provider_450,Orthopedics,Crawford
+P00451,Provider_451,Orthopedics,Wyandotte
+P00452,Provider_452,Psychiatry,Crawford
+P00453,Provider_453,Family Medicine,Butler
+P00454,Provider_454,Emergency Medicine,Sedgwick
+P00455,Provider_455,Pediatrics,Butler
+P00456,Provider_456,Cardiology,Butler
+P00457,Provider_457,Orthopedics,Crawford
+P00458,Provider_458,Family Medicine,Butler
+P00459,Provider_459,Pediatrics,Crawford
+P00460,Provider_460,Cardiology,Crawford
+P00461,Provider_461,Orthopedics,Shawnee
+P00462,Provider_462,Cardiology,Wyandotte
+P00463,Provider_463,Psychiatry,Saline
+P00464,Provider_464,Pediatrics,Saline
+P00465,Provider_465,Family Medicine,Douglas
+P00466,Provider_466,Family Medicine,Crawford
+P00467,Provider_467,Pediatrics,Douglas
+P00468,Provider_468,Emergency Medicine,Crawford
+P00469,Provider_469,Emergency Medicine,Riley
+P00470,Provider_470,Cardiology,Leavenworth
+P00471,Provider_471,Psychiatry,Sedgwick
+P00472,Provider_472,Cardiology,Sedgwick
+P00473,Provider_473,Orthopedics,Wyandotte
+P00474,Provider_474,Family Medicine,Butler
+P00475,Provider_475,Cardiology,Wyandotte
+P00476,Provider_476,Cardiology,Saline
+P00477,Provider_477,Pediatrics,Saline
+P00478,Provider_478,Family Medicine,Wyandotte
+P00479,Provider_479,Family Medicine,Saline
+P00480,Provider_480,Emergency Medicine,Saline
+P00481,Provider_481,Emergency Medicine,Wyandotte
+P00482,Provider_482,Family Medicine,Wyandotte
+P00483,Provider_483,Cardiology,Shawnee
+P00484,Provider_484,Orthopedics,Douglas
+P00485,Provider_485,Cardiology,Butler
+P00486,Provider_486,Orthopedics,Sedgwick
+P00487,Provider_487,Family Medicine,Douglas
+P00488,Provider_488,Pediatrics,Riley
+P00489,Provider_489,Orthopedics,Wyandotte
+P00490,Provider_490,Emergency Medicine,Douglas
+P00491,Provider_491,Pediatrics,Leavenworth
+P00492,Provider_492,Family Medicine,Leavenworth
+P00493,Provider_493,Psychiatry,Johnson
+P00494,Provider_494,Orthopedics,Saline
+P00495,Provider_495,Orthopedics,Riley
+P00496,Provider_496,Pediatrics,Shawnee
+P00497,Provider_497,Psychiatry,Crawford
+P00498,Provider_498,Psychiatry,Crawford
+P00499,Provider_499,Family Medicine,Crawford
+P00500,Provider_500,Pediatrics,Johnson
